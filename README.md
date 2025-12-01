@@ -26,5 +26,31 @@ Sin dinero. Sin emisiones. Solo comunidad.
 Si quieres aportar ideas, mejoras o colaborar en el desarrollo:
 
 1. Haz un **fork** del repositorio.  
-2. Crea una rama nueva:  
+2. Crea una rama nueva:
+3. Realiza tus cambios y sube commit.  
+4. Abre una **Pull Request** explicando tu aportación.  
+
+Toda ayuda es bienvenida.
+
+---
+
+## 📬 Contacto
+Si quieres ponerte en contacto para colaborar en el proyecto:
+
+- **Email protegido antispam:**  
+`sergiodiazescudero [arroba] gmail [punto] com`
+
+*(Si quieres escribir, sustituye [arroba] por @ y [punto] por .)*
+
+---
+
+## ⚖️ Licencia
+Este proyecto puede utilizar la licencia MIT si deseas permitir que otros reutilicen el código.  
+Si quieres mantenerlo cerrado por ahora, simplemente déjalo sin licencia.
+
+---
+
+**Gracias por apoyar la reutilización y el trueque responsable.  
+Paso a paso, y una camiseta a la vez 😉♻️**
+ 
 
